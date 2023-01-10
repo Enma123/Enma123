@@ -12,6 +12,9 @@
 
 ### 💬 About me:
 
+- 🔭 Ask me about, **PHP, Java, C++, Javascript, Reactjs, Angular, MongoDb, SQL Server, MySql**
+- 📫 How to reach me **joseemiliogr5@gmail.com**
+
 <!--23/Enma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
