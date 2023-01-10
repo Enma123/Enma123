@@ -1,4 +1,6 @@
-![](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47javbh7qt7kw7zdczied3l5jzibbw17k67w6jzg5w&rid=giphy.gif&ct=g)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/4rZA5D22301iMgrUNd/giphy.gif" width="200"/>
+</div>
 ### Hi there 👋
 
 <!--
