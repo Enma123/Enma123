@@ -1,4 +1,4 @@
-! [](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47javbh7qt7kw7zdczied3l5jzibbw17k67w6jzg5w&rid=giphy.gif&ct=g)
+![](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47javbh7qt7kw7zdczied3l5jzibbw17k67w6jzg5w&rid=giphy.gif&ct=g)
 ### Hi there 👋
 
 <!--
