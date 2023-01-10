@@ -3,8 +3,7 @@
 </div>
 <h3 align="center">Hi 👋, I'm José Emilio Vargas Gamboa</h3>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-emilio-vargas-gamboa-a49277174/">
-    <img src="https://img.shields.io/twitter/url?color=orange&label=LinkedIn&logo=LinkedIn&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjos%25C3%25A9-emilio-vargas-gamboa-a49277174%2F" alt="LinkedIn Badge"/>
+  <a href="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjos%25C3%25A9-emilio-vargas-gamboa-a49277174%2F" alt="LinkedIn Badge"/>
   </a>
 </div>
 <!--
