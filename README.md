@@ -7,8 +7,11 @@
     <img src="https://img.shields.io/twitter/url?color=blue&label=LinkedIn&logo=LinkedIn&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjos%25C3%25A9-emilio-vargas-gamboa-a49277174%2F" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 ---
+
 ### 💬 About me:
+
 <!--23/Enma123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
