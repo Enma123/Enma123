@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 <h3 align="center">Hi 👋</h3>
-<h3 align="center"> My name José Emilio Vargas Gamboa </h3>
+<h3 align="center"> My name is José Emilio Vargas Gamboa </h3>
 <h4 align="center">I'm a hardworking Software Engineer from Costa Rica. I'm always interested in expanding my knowledge. I'll happily collaborate with your company and create incredible things together.</h4>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jos%C3%A9-emilio-vargas-gamboa-a49277174/" target="_blank"/>
