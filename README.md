@@ -28,4 +28,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" tittle="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" tittle="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" tittle="MySql" alt="MySql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" tittle="MySql" alt="MySql" width="40" height="40"/>&nbsp;
 </div>
